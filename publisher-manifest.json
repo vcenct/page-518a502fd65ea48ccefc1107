@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "77cbf99fac7d1b0c3f9ba441",
+  "owner": "vcenct",
+  "repo": "page-518a502fd65ea48ccefc1107",
+  "title": "卧槽云(WOCcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "518a502fd65ea48ccefc1107",
+      "a": "卧槽云(WOCcloud)",
+      "b": "机场官网线路发布页",
+      "entity": "卧槽云(WOCcloud)",
+      "brand": "卧槽云(WOCcloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f403b35097db42ca85181987bc0ba85b9750409d18721a28df61b6f939ea431d",
+      "content": {
+        "primary_entity": "卧槽云(WOCcloud)",
+        "keyword1": "卧槽云(WOCcloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供从基础版到团队版的多档套餐，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备与流量需求",
+          "AI_HERO_INTRO": "卧槽云(WOCcloud)面向日常流媒体访问与轻量游戏加速场景，提供基础版、旗舰版和团队版三种订阅方案。旗舰版在 300GB 月流量基础上加入 IPLC 专线游戏加速优化，团队版则侧重高带宽节点与企业定制路由。",
+          "AI_VISUAL_TITLE": "卧槽云多档订阅方案",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "根据流量用量和设备数量选择对应订阅，减少不必要支出。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人日常浏览，旗舰版 300GB 兼顾流媒体，团队版 1000GB 满足多人共享高带宽需求。",
+          "AI_FEATURE_TITLE_2": "设备数量对应版本",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版最多 20 台，按家庭成员或团队规模选择即可。",
+          "AI_FEATURE_TITLE_3": "订阅周期与付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付更经济。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用可优先考虑年付。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 各有对应客户端，按设备系统选择并填入订阅信息即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、旗舰版月付 ¥35、团队版月付 ¥85，按流量和设备需求选择合适版本。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_GUIDE_INTRO": "三步完成卧槽云订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量用量、设备数量及是否需要 IPLC 加速，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与所选套餐支持的设备数量一致，团队版可进一步了解定制路由的配置条件。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在选定客户端中填入订阅地址并更新节点列表，客户端连接成功后即可使用对应套餐的流量。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "卧槽云套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "单人日常使用可选基础版 100GB；经常看流媒体且需要 IPLC 加速可选旗舰版 300GB；多人团队共享或需要高带宽节点可选团队版 1000GB。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出在线设备数可能导致连接被限制，请按实际设备数量选择版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付比月付更经济。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，折合每月价格低于月付。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在卧槽云获取订阅地址后，在所选客户端中粘贴订阅链接并更新配置，具体步骤可参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并可配置专属客户经理跟进。具体路由规则需结合实际网络环境与服务方沟通确认。",
+          "AI_CLOSING_TITLE": "按需订阅，即刻配置",
+          "AI_CLOSING_TEXT": "对照流量与设备数量选好版本，导入订阅即可开始使用卧槽云。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yneig.cn",
+    "host": "yneig.cn"
+  },
+  "file_hashes": {
+    "index.html": "97c434adcc91c666eed5737afdec472012ff31062c3846040b3144cedd8a35b3",
+    "sitemap.xml": "183c6a7445454560c497606a2431cb442a7eb85acc2302849c9f1dc68082bc14",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a45112c85de757f8ccd8e738c671802f6aff86495cdd27e6ae68cbc11c015e22",
+    "robots.txt": "d95de7c3fa90da30fcd8234fc0ea74706b9e3e93cd8f0159606e1133337ca9c4",
+    "473dc0b1597d17121d97357960538043.txt": "cbed538b154ae221e0b0bae19aab53153901d0e553f17056f91d7c67ac1d7b8a"
+  },
+  "revision": "154a7b044731b9721a784cb918602c5c7448d5e31a61497b12929c96854812f0"
+}
